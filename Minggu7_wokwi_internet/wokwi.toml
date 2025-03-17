@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = '.pio\build\esp32doit-devkit-v1\firmware.bin'
+elf = 'E:\KULIAH\IOT\iot_tivokasi_candra\wokwi_internet\.pio\build\esp32doit-devkit-v1\firmware.elf'
